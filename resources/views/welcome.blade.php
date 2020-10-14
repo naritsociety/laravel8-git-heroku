@@ -14,7 +14,7 @@
     </head>
     <body>
         <div class="container">
-            <h3>Laravel8 on Heroku</h3>
+            <h3>Laravel8 on Heroku With ReactJS Prototype</h3>
             <div id="root"></div>
         </div>
         <script src="{{ asset('js/app.js')}}"></script>
