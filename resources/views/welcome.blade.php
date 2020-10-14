@@ -13,7 +13,7 @@
 
     </head>
     <body>
-        <div class="content">
+        <div class="container">
             <h3>Laravel8 on Heroku</h3>
             <div id="root"></div>
         </div>
